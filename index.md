@@ -128,7 +128,7 @@ at the top will change. Material changes will be announced in-app.
 
 Questions, deletion requests, or anything else:
 
-**support@pubdomcards.app** _(replace with your real address before publishing)_
+**pubdomcards@gmail.com**
 
 ---
 
